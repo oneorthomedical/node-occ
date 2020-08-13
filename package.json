@@ -4,7 +4,7 @@
   "description": "OpenCascade OCCT Wrapper for Node js",
   "preferGlobal": "true",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.3",
     "colors": "*",
     "gettemporaryfilepath": "1.0.0",
     "nan": "^2.10.0",
